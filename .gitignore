@@ -259,3 +259,9 @@ paket-files/
 # Python Tools for Visual Studio (PTVS)
 __pycache__/
 *.pyc
+*.filters
+*.filters
+*.vcxproj
+Computer Architecture Project/Computer Architecture Project.vcxproj
+*.vcxproj
+*.vcxproj
