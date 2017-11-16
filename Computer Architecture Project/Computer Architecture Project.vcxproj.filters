@@ -18,9 +18,15 @@
     <ClInclude Include="RegisterFile.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="DataMemory.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="RegisterFile.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="DataMemory.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>

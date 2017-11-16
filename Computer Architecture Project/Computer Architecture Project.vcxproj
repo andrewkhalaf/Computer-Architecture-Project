@@ -111,9 +111,11 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClInclude Include="DataMemory.h" />
     <ClInclude Include="RegisterFile.h" />
   </ItemGroup>
   <ItemGroup>
+    <ClCompile Include="DataMemory.cpp" />
     <ClCompile Include="RegisterFile.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />

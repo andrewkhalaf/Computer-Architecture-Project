@@ -265,3 +265,5 @@ __pycache__/
 Computer Architecture Project/Computer Architecture Project.vcxproj
 *.vcxproj
 *.vcxproj
+*.vcxproj
+*.filters
